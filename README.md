@@ -13,7 +13,7 @@
  - 🧑‍💻[Clara Benito](https://github.com/clarabenito)
  - 🧑‍💻[Danilo Neto](https://github.com/danilocneto)
  - 🧑‍💻[Diego Silva](https://github.com/diegofsiilva)
- - 🧑‍💻[Arthur Almeida](
+ - 🧑‍💻[Arthur Almeida](https://github.com/arthur-marks202)
    
 ##
 
