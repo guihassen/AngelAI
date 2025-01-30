@@ -8,12 +8,12 @@
 
  <h1 align="left">👥 Integrantes do Grupo </h1>
 
- - 🧑‍💻**Guilherme Hassenpflug**
- - 🧑‍💻**Rafael Cabral**
- - 🧑‍💻**Clara Benito**
- - 🧑‍💻**Danilo Neto**
- - 🧑‍💻**Diego Silva**
- - 🧑‍💻**Arthur Almeida**
+ - 🧑‍💻[Guilherme Hassenpflug](https://github.com/guihassen)
+ - 🧑‍💻[Rafael Cabral](https://github.com/Cabral-rcs)
+ - 🧑‍💻[Clara Benito](https://github.com/clarabenito)
+ - 🧑‍💻[Danilo Neto](https://github.com/danilocneto)
+ - 🧑‍💻[Diego Silva](https://github.com/diegofsiilva)
+ - 🧑‍💻[Arthur Almeida](
    
 ##
 
