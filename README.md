@@ -1,5 +1,5 @@
-<h1 align="center">PablitoAI 🤖</h1>  
-<h3 align="center">💡 Um assistente virtual especializado em inteligência emocional</h3>
+<h1 align="center">AngelAI 👼</h1>  
+<h3 align="center">💡 Um assistente virtual para fazer análise de empresas</h3>
 <br>
 <br>
 <br>
@@ -37,10 +37,18 @@
 
 1. Qual a visão atual do usuário sobre sua empresa ?
  <br> O usuário realmente conhece todo seu negócio?
-<br>
 2. Qual o nivel de escabilidade do negócio ?
 <br> O emprendimento tem capazidade para aumentar seu tamanho e dominar seu segmento?
-<br>
 3. Qual a postura do usuário em relação aos obstáculos que possam surgir ?
 <br>  O como o usuário lida com as dificuldades em relação o seu negócio
-  
+4. Como é feito o planejamento estratégico do usuario ?
+<br> Qual a linha de pensamento ele segue para planjear sua empresa
+5. Qual o diferencial do emprendimento do usuario ?
+<br> O usuário explora o diferencial de sua empresa ao seu favor?
+6. Qual o publico alvo da empresa do clinte ?
+<br>Quem ele busca atingir com o seu produto e como ele expõe seu produto ao seu público ?
+7. Qual necessidade o produto do cliente busca suprir?
+<br> Como o produto do cliente supri a necessidade dos seus usuários?
+<br>
+
+## 🗣️ Estilo de Comunicação
