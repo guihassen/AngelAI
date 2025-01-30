@@ -4,7 +4,7 @@
 <br>
 <br>
 
-🔗[LINK DO PROJETO](https://chatgpt.com/g/g-67992fd4c4848191b62a9d3533caed4e-pablinho)
+🔗[LINK DO PROJETO](https://chatgpt.com/g/g-679b7b86679081918de390c3593f0107-angelai)
 
  <h1 align="left">👥 Integrantes do Grupo </h1>
 
